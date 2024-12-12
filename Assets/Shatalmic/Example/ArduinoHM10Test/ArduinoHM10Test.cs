@@ -10,9 +10,9 @@ using System.Text;
 
 public class ArduinoHM10Test : MonoBehaviour
 {
-	public string DeviceName = "DSD TECH";
-	public string ServiceUUID = "FFE0";
-	public string Characteristic = "FFE1";
+	public string DeviceName = "Nano34_BLE";
+	public string ServiceUUID = "180C";
+	public string Characteristic = "2A56";
 
 	public Text HM10_Status;
 	public Text BluetoothStatus;
